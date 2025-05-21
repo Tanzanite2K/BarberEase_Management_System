@@ -10,7 +10,7 @@ backend database, the application provides the following key features:
     • Organize staff schedules and daily bookings
 
 # Compile & Run the project
-javac -d bin -cp "sqlite-jdbc-3.49.1.0.jar" src\*.java 
+javac -d bin -cp "sqlite-jdbc-3.49.1.0.jar" src\*.java, 
 java -cp "bin;sqlite-jdbc-3.49.1.0.jar" src.Main  
 
 # Outputs
